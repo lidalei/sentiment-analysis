@@ -12,3 +12,4 @@ Apply bag of words and Word2vec to sentiment analysis.
 * nltk and nltk stopwords corpus
 * gensim
 * tensorflow
+* scikit-learn
